@@ -1,0 +1,22 @@
+{
+  "name": "ember-london-201607",
+  "version": "1.0.0",
+  "description": "Slides for a presentation at Ember London in July 2016",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barneycarroll/ember-london-201607.git"
+  },
+  "author": "Barney Carroll <barney.carroll@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/ember-london-201607/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/ember-london-201607#readme",
+  "dependencies": {
+    "mithril": "^0.2.5"
+  }
+}
